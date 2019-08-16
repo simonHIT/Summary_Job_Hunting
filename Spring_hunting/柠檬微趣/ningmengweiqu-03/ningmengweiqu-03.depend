@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555677461 source:d:\downloads\workplace-cb\ningmengweiqu-03\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+

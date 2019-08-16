@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555141670 source:d:\downloads\workplace-cb\kuaishou2019b-01\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

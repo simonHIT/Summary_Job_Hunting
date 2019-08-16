@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554293412 source:d:\downloads\workplace-cb\pinduoduo2019-03\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+

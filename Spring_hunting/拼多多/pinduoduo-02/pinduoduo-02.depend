@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553519916 source:d:\downloads\workplace-cb\pinduoduo-02\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
